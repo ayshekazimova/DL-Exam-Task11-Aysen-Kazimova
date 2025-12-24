@@ -9,7 +9,7 @@
 
 ## 📽️ Presentation Slide Link
 👉 **Slide Presentation:**  
-🔗 _(https://docs.google.com/presentation/d/1UmBMnNVEF9qkYgy8i8FH0Ywz7dpuPbcve-RCb9SPsM0/edit?slide=id.p2#slide=id.p2)_
+🔗 _(https://docs.google.com/presentation/d/1UmBMnNVEF9qkYgy8i8FH0Ywz7dpuPbcve-RCb9SPsM0/edit?usp=sharing)_
 
 ---
 
@@ -85,4 +85,5 @@ to unseen data.
 ---
 
 **Task 11 – SVHN successfully completed.**
+
 
